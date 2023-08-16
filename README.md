@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShakilDeep
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Shakil Uddin (KillerCoder)
+- 👀 I’m interested in Machine Learning, Deep learning, Julia, Mojo, Python, Data Analysis, ASP.NET
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at shakil.uddin@gmail.con
+- 📫 How to reach me at shakil.uddin@gmail.con, WhatsApp := +880 01973045780
 
 <!---
 ShakilDeep/ShakilDeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
