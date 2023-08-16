@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shakil Uddin (KillerCoder)
 - 👀 I’m interested in Machine Learning, Deep learning, Julia, Mojo, Python, Data Analysis, ASP.NET
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Senior Position like CTO inside Dhaka
 - 📫 How to reach me at shakil.uddin@gmail.con, WhatsApp := +880 01973045780
 
 <!---
